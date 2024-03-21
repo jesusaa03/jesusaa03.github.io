@@ -22,9 +22,9 @@
 
  <h3>
   <a href="bio">Bio</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;<a href="topic">Resume</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;<a href="biography">Contact</a>
- &nbsp;&nbsp;&nbsp;&nbsp; <a href="home">Homepage in Markdown</a> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="topic">Resume</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="biography">Contact</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="home">Homepage</a> 
    </h3>
     <br>
     <p><img src="Bus.18.Final.Resume_Page_1.jpg" /></p>
