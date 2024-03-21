@@ -23,7 +23,7 @@
 
 ![Bus 18 Final Resume_Page_1](https://github.com/jesusaa03/jesusaa03.github.io/assets/164307115/ada3776b-5cc0-445c-95b9-40d61a0da59a)
 ![Bus 18 Final Resume_Page_2](https://github.com/jesusaa03/jesusaa03.github.io/assets/164307115/ffac941d-a43d-486b-8f2e-5964a728e0d8)
-<p><img src="Bus.18.Final.Resume_Page_1.JPG" alt="back view" /></p>
+<p><img src="Bus.18.Final.Resume_Page_1.jpg" /></p>
 
   <a href="bio">Bio</a>
     <br>
