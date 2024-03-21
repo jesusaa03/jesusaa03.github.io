@@ -20,7 +20,7 @@
   <body>
    <h1>Hi, I'm Jesus Acosta, a full-time business student from Los Angeles, CA. Empowering veterans through business growth and mentorship.  Welcome to my Homepage!</h1>
   <h4>by Jesus A Acosta</h4>
-Bus 18 Final Resume.pdf
+
 
   <a href="bio">Bio</a>
     <br>
@@ -31,6 +31,8 @@ Bus 18 Final Resume.pdf
   <a href="home">Homepage in Markdown</a>
     <br>
   
+    <p>
+    <Bus 18 Final Resume.pdf>
     <p>
     <img src="sitemap2p0.gif" alt="Site Map" usemap="#Map1" title="My Site Map">
     </p>
