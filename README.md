@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8">
   <style>
-  body {background-image: url("IMG_3630.jpg"); 
+  body {background-image: url bio; 
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: left;}
