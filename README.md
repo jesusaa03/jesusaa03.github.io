@@ -8,7 +8,7 @@
         background-position: left;}
     h1 {text-align: center}
     h4 {text-align: center}
-    h3 {text-align: justify}
+    h3 {text-align: justify center}
     a {font-size: 26px}
     p {margin-top: 1600px;
       text-align: right}
