@@ -1,7 +1,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>My Home Page</title>
   <style>
   body {background-image: url("IMG_3630.jpg"); 
         background-repeat: no-repeat;
