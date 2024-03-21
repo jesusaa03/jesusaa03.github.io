@@ -33,11 +33,7 @@
     <p><img src="Bus.18.Final.Resume_Page_1.jpg" /></p>
     <p><img src="Bus.18.Final.Resume_Page_2.jpg" /></p>
   
-    <p>
-    [Bus 18 Final Resume.pdf](https://github.com/jesusaa03/jesusaa03.github.io/files/14686995/Bus.18.Final.Resume.pdf)
 
-    <p><img src="Bus.18.Final.Resume_Page_1.jpg" /></p>
-    <p><img src="Bus.18.Final.Resume_Page_2.jpg" /></p>
    
     " usemap="#Map1" title="My Site Map">
     </p>
