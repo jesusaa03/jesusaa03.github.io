@@ -35,8 +35,6 @@
   <a href="home">Homepage in Markdown</a>
     <br>
 
-![Bus 18 Final Resume_Page_2](https://github.com/jesusaa03/jesusaa03.github.io/assets/164307115/c1a13e07-2d6a-42ca-9f0b-1ff36d4447df)
-
   
     <p>
     [Bus 18 Final Resume.pdf](https://github.com/jesusaa03/jesusaa03.github.io/files/14686995/Bus.18.Final.Resume.pdf)
