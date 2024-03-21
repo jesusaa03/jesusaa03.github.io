@@ -19,7 +19,7 @@
    <h1>Hi, I'm Jesus Acosta, a full-time business student from Los Angeles, CA. Empowering veterans through business growth and mentorship.  Welcome to my Homepage!</h1>
   <h4>by Jesus A Acosta</h4>
 
-
+<h4>
   <a href="bio">Bio</a>
     <br>
   <a href="topic">Resume</a>
@@ -30,7 +30,7 @@
     <br>
     <p><img src="Bus.18.Final.Resume_Page_1.jpg" /></p>
     <p><img src="Bus.18.Final.Resume_Page_2.jpg" /></p>
-  
+</h4>
 
    
     © 2024 Jesus Acosta. All Rights Reserved. 
