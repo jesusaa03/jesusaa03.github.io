@@ -11,7 +11,7 @@
     h3 {text-align: justify center}
     a {font-size: 26px}
     p {margin-top: 1600px;
-      text-align: right}
+      text-align: justify}
     body {color: lightblue;}
     
     </style>
