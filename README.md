@@ -21,11 +21,8 @@
 
 <h4>
   <a href="bio">Bio</a>
-    <br>
   <a href="topic">Resume</a>
-    <br>
   <a href="biography">Contact</a>
-    <br>
   <a href="home">Homepage in Markdown</a>
     <br>
     <p><img src="Bus.18.Final.Resume_Page_1.jpg" /></p>
