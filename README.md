@@ -32,7 +32,8 @@
     <br>
   
     <p>
-    <Bus 18 Final Resume.pdf>
+    [Bus 18 Final Resume.pdf](https://github.com/jesusaa03/jesusaa03.github.io/files/14686995/Bus.18.Final.Resume.pdf)
+
     <p>
     <img src="sitemap2p0.gif" alt="Site Map" usemap="#Map1" title="My Site Map">
     </p>
