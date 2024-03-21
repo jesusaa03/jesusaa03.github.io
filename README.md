@@ -25,6 +25,9 @@
   <a href="bio">Bio</a>
     <br>
   <a href="topic">Resume</a>
+    <p>
+      [Bus 18 Final Resume.pdf](https://github.com/jesusaa03/jesusaa03.github.io/files/14686995/Bus.18.Final.Resume.pdf)
+    </p>
     <br>
   <a href="biography">Contact</a>
     <br>
