@@ -40,7 +40,9 @@
     [Bus 18 Final Resume.pdf](https://github.com/jesusaa03/jesusaa03.github.io/files/14686995/Bus.18.Final.Resume.pdf)
 
     <p>
-    <img src="sitemap2p0.gif" alt="Site Map" usemap="#Map1" title="My Site Map">
+    <img src="Bus.18.Final.Resume_Page_1">
+    <img src="Bus.18.Final.Resume_Page_2">
+    " usemap="#Map1" title="My Site Map">
     </p>
     <map name="Map1" id="Map1">
       <area shape="rect" coords="5,29,137,88" alt="fr"
