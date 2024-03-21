@@ -21,12 +21,7 @@
    <h1>Welcome to my Homepage</h1>
   <h4>by Jesus A Acosta</h4>
 
-<a href="freedom">Freedom</a>
-  <br>
-  <a href="factoring">Factoring</a>
-  <br>
-  <a href="rights">Rights</a>
-  <br>
+
   <a href="bio">Bio</a>
     <br>
   <a href="topic">Topic</a>
@@ -35,7 +30,7 @@
     <br>
   <a href="home">Homepage in Markdown</a>
     <br>
-  <a href="travel">Travel in Markdown</a>
+  
     <p>
     <img src="sitemap2p0.gif" alt="Site Map" usemap="#Map1" title="My Site Map">
     </p>
