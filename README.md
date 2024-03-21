@@ -18,15 +18,15 @@
     </style>
   </head>
   <body>
-   <h1>Welcome to my Homepage</h1>
+   <h1>Hi, I'm Jesus Acosta, a full-time student from Los Angeles, CA. Welcome to my Homepage!</h1>
   <h4>by Jesus A Acosta</h4>
 
 
   <a href="bio">Bio</a>
     <br>
-  <a href="topic">Topic</a>
+  <a href="topic">Resume</a>
     <br>
-  <a href="biography">Bio in Markdown</a>
+  <a href="biography">Contact</a>
     <br>
   <a href="home">Homepage in Markdown</a>
     <br>
