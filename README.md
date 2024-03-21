@@ -18,7 +18,7 @@
     </style>
   </head>
   <body>
-   <h1>Hi, I'm Jesus Acosta, a full-time student from Los Angeles, CA. Welcome to my Homepage!</h1>
+   <h1>Hi, I'm Jesus Acosta, a full-time business student from Los Angeles, CA. Empowering veterans through business growth and mentorship.  Welcome to my Homepage!</h1>
   <h4>by Jesus A Acosta</h4>
 
 
