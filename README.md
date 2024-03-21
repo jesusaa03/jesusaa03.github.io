@@ -33,8 +33,7 @@
   
 
    
-    " usemap="#Map1" title="My Site Map">
-    </p>
+    © 2024 Jesus Acosta. All Rights Reserved. 
     <map name="Map1" id="Map1">
       <area shape="rect" coords="5,29,137,88" alt="fr"
             href="https://jaal32.github.io/freedom" title="Freedom" >
