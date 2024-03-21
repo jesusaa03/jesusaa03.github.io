@@ -21,11 +21,11 @@
    <h1>Hi, I'm Jesus Acosta, a full-time business student from Los Angeles, CA. Empowering veterans through business growth and mentorship.  Welcome to my Homepage!</h1>
   <h4>by Jesus A Acosta</h4>
 
-![Bus 18 Final Resume_Page_1](https://github.com/jesusaa03/jesusaa03.github.io/assets/164307115/7e279ee4-ec8b-45da-8b79-986991e47638)
-![Bus 18 Final Resume_Page_2](https://github.com/jesusaa03/jesusaa03.github.io/assets/164307115/c1a13e07-2d6a-42ca-9f0b-1ff36d4447df)
+![Bus 18 Final Resume_Page_1](https://github.com/jesusaa03/jesusaa03.github.io/assets/164307115/ada3776b-5cc0-445c-95b9-40d61a0da59a)
+![Bus 18 Final Resume_Page_2](https://github.com/jesusaa03/jesusaa03.github.io/assets/164307115/ffac941d-a43d-486b-8f2e-5964a728e0d8)
 
 
-
+<p>
   <a href="bio">Bio</a>
     <br>
   <a href="topic">Resume</a>
