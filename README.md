@@ -20,10 +20,12 @@
    <h1>Hi, I'm Jesus Acosta, a full-time business student from Los Angeles, CA. Empowering veterans through business growth and mentorship.  Welcome to my Homepage!</h1>
   <h4>by Jesus A Acosta</h4>
 
-<h3 style='text-align: justify;'>  <a href="bio">Bio</a>
+  <p align="justify">  
+  <a href="bio">Bio</a>
   <a href="topic">Resume</a>
   <a href="biography">Contact</a>
-  <a href="home">Homepage in Markdown</a> </h3>
+  <a href="home">Homepage in Markdown</a> 
+  </p>
 
     <br>
     <p><img src="Bus.18.Final.Resume_Page_1.jpg" /></p>
