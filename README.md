@@ -18,7 +18,7 @@
   </head>
   <body>
    <h1>Hi, I'm Jesus Acosta, a full-time business student from Los Angeles, CA. Empowering veterans through business growth and mentorship.  Welcome to my Homepage!</h1>
-  <h4>by Jesus A Acosta</h4>
+  <h4>Connect with Me</h4>
 
  <h3>
   <a href="https://www.linkedin.com/in/jesusa-acosta/">LinkedIn</a>
