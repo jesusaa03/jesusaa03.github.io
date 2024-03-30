@@ -21,10 +21,10 @@
   <h4>by Jesus A Acosta</h4>
 
  <h3>
-  <a href="bio">Bio</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="topic">Resume</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="biography">Contact</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="home">Homepage</a> 
+  <a href="https://www.linkedin.com/in/jesusa-acosta/">LinkedIn</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://msmu.instructure.com/eportfolios/130502/Home">Canvas ePortfolio</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/jesusaa03/">Instagram</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.tiktok.com/@jesusaa03">TikTok</a> 
    </h3>
     <br>
     <p><img src="Bus.18.Final.Resume_Page_1.jpg" /></p>
